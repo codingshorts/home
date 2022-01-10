@@ -7,7 +7,7 @@
  }
  
 header {
-	background-color: grey;
+	background-color: white;
 	color: #b8092d;
 	padding-bottom: 20px;
 }
@@ -27,7 +27,7 @@ h1 {
 }
 
 body {
-	background-color: grey;
+	background-color: white;
 }
 
 main {
@@ -36,7 +36,7 @@ main {
 }
 
 footer {
-	background-color: grey;
+	background-color: white;
 	font-family: Consolas;
 }
 
@@ -66,3 +66,8 @@ footer {
 	font-family: Consolas;
 	color: maroon;
 }
+
+
+
+
+
