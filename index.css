@@ -1,0 +1,68 @@
+* {
+	padding-block: 0;
+	margin: 0;
+}
+.centers {
+ 	text-align: center;
+ }
+ 
+header {
+	background-color: grey;
+	color: #b8092d;
+	padding-bottom: 20px;
+}
+
+.links {
+	color: #363636;
+}
+
+h1 {
+	padding-bottom: 10px;
+	font-weight: 400;
+	font-family: Monoco;
+}
+
+.codi {
+	color: #212121;
+}
+
+body {
+	background-color: grey;
+}
+
+main {
+	background-color: white;
+	text-align: center;
+}
+
+footer {
+	background-color: grey;
+	font-family: Consolas;
+}
+
+#develop {
+	color: white;
+	padding-bottom: 10px;
+}
+
+#social {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+#short {
+	color: #b8092d;
+	font-size: 30px;
+}
+
+#codis {
+	color: #212121;
+	font-size: 30px;
+}
+
+#wel {
+	font-size: 40px;
+	font-weight: 450;
+	font-family: Consolas;
+	color: maroon;
+}
